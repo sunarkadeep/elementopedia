@@ -35,6 +35,7 @@ win=Tk()
 win.state('zoomed')
 
 #images
+ico=PhotoImage(file="Files/icon.png")
 img_1=PhotoImage(file="Files/Home Page.png")
 img_2=PhotoImage(file="Files/Home_Button.png")
 img_3=PhotoImage(file="Files/Menu_Button.png")
@@ -59,6 +60,7 @@ iec_output_pg=PhotoImage(file="Files/iec_output_bg.png")
 sctc_bg_img=PhotoImage(file="Files/sctc_bg_img.png")
 proceed_button=PhotoImage(file="Files/proceed_button.png")
 sctc_bg2=PhotoImage(file="Files/sctc_output_bg.png")
+win.iconphoto(False, ico)
 
 #home page
 def home_pg():
