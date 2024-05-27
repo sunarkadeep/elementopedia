@@ -1,5 +1,5 @@
 There is no such complicacy in the program. It is very simple and straightforward.
-1.	To run the program, user is required to run the Elementopedia.py file
+1.	To run the program, user is required to run the main.py file
 
 2.	In Order to prevent any errors all the png files, txt files, xlsx files and py 
 	file should be in one single folder.
