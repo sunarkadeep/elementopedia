@@ -1,0 +1,65 @@
+Elementopedia is a software designed with an aim of aiding higher secondary students in 
+their basic preparation for Chemistry. This programs aims to help them practice these 
+topics and master them.
+
+The software components fulfill the following given functions:
+>	Know about the element
+>	Sorting of elements
+>	Element identification in a Compound
+>	Stoichiometric Concentration Terms Converter
+
+The first component of the program aims to deliver vital information about an element of 
+which the atomic symbol/number is entered by user.
+The second one makes sorting of entered elements according to the periodic trend 
+selected by the user. 
+The third one identifies the element present in a compound.
+The fourth program converts various Stoichiometric Concentration Terms into another as 
+per choice of the user.
+
+Input: 
+
+Input for the entire software is taken using the Graphic windows created.
+The first program-'Know about the element', requires an input of the atomic symbol/number
+about user would want to know.
+The second program-'Sorting of elements', the user first selects the periodic trend and 
+selects whether he/she wants to sort in ascending or descending order. Then he/she enters
+the elements symbols.
+The third program-'Element identification in a Compound', allows user to enter a 
+compound's formula.
+The fourth program-'Stoichiometric Concentration Terms Converter', lets users first choose 
+which concentration term to be converted and to what. Depending on these choices, 
+ancillary inputs according to each are required.
+
+Output: 
+
+Output is also delivered in a similar Graphic Window. 
+The first program-'Know about the element', presents an output about the element searched 
+for that includes Element name, Atomic no., Mass no., Electronic configuration, 
+Electronegativity, Atomic Radius, Ionization Energy, Electron Affinity , Melting and 
+Boiling point and much more. 
+The second program-'Sorting of elements displays elements entered in a sorted manner as 
+per user's choice.
+The third program-'Element Identification in a Compound', displays the constituent 
+elements of the entered compound.
+The fourth program-'Stoichiometric Concentration Terms Converter', gives an output of 
+the converted value in the selected concentration term from the entered stoichiometric 
+concentration term
+
+Element details Database: 
+
+The program also has an element details database which is a significant part of the program. 
+This is not a part of the system which the user is directly accessible to. This is where all 
+the information regarding the entire set of elements is stored and it is from here, the 
+required details are collected and imported to respective programs. It is finally used as it 
+is defined. 
+
+Hardware and Software Requirements:
+
+Hardware Requirements:
+>	Processor:  Any processor with minimum of 2 Cores and 2GHz clock speed.
+>	RAM: 4GB
+>	ROM: 128GB
+Software Requirements: 
+>	Windows 8 or later, macOS 11 BigSur or later, LINUX, UNIX.
+>	Python IDLE (3.10 64-Bit)
+>	pandas library must be installed before running this software
