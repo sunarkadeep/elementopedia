@@ -62,3 +62,4 @@ Hardware Requirements:
 Software Requirements: 
 >	Windows 8 or later, macOS 11 BigSur or later, LINUX, UNIX.
 >	Python IDLE (3.10 64-Bit) or later
+> pandas library
