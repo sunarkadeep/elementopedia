@@ -1,0 +1,9 @@
+This is a software developed as a part of high school academic project,
+solely developed by @sunarkadeep, @SohamChakro [github usernames]
+
+Special thanks to PubChem [ https://pubchem.ncbi.nlm.nih.gov/periodic-table/ ] 
+which formed the basis of the data contained in the dataset used, which was then 
+modified and classified according to the needs of this software.
+
+The graphical content used in the software have been created by the developers
+using the application - Canva.

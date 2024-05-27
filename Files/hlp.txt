@@ -1,0 +1,33 @@
+There is no such complicacy in the program. It is very simple and straightforward.
+1.	To run the program, user is required to run the Elementopedia.py file
+
+2.	In Order to prevent any errors all the png files, txt files, xlsx files and py 
+	file should be in one single folder.
+
+3.	Help w.r.t to each program : 
+
+	>	For the first part of the program, Know About the Element, user is required to 
+	enter either the Atomic Number or Atomic Symbol of any Element in the periodic table.
+	For example:
+	10 refers to Neon and thus all its corresponding information as given in 
+	https://pubchem.ncbi.nlm.nih.gov/
+	Ar refers to Argon and thus all its corresponding information as given in 
+	https://pubchem.ncbi.nlm.nih.gov/
+
+	>	Sorting of Elements, here user is required to select the trend from the four 
+	trends available and the order of the sorting. A field is provided to enter the 
+	Atomic Symbol of the Element (space separated). Finally press the SHOW button to get 
+	the arranged order of the elements.
+
+	>	Identification of Elements in a Compound, here the user is only required to enter 
+	the compound and the corresponding elements associated with that compound will be 
+	displayed, as simple as that.
+
+	>	Stoichiometric Concentration Terms Converter, here the user is required to choose 
+	the conversion as required from the available list (normality, molarity, molality) 
+	then enter the values in their SI units and the converted values will be displayed 
+	accordingly.
+
+4.	The Home Button is also available in every page, in case the user wants to return back to 
+	the home page of Elementopedia. The Menu Button is also given in every page after the 
+	menu page to return back to the menu page as and when required.
