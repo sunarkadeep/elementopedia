@@ -6,3 +6,5 @@ It uses the basic knowledge of python strings, lists, tuple and also tkinter (Py
 <br>
 <h1>Home Page -><h1>
 <img src="https://drive.google.com/uc?export=view&id=13Sui6wpTjJ5Y2iTpMvRcQtDpUYk59s_e">
+<h1>About Elementopedia (popup) -><h1>
+<img src="https://drive.google.com/uc?export=view&id=1tiOUJ0ODkpLknsM69z71CeFcRmB0tIxl">
