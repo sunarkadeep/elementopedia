@@ -9,7 +9,7 @@ It uses the basic knowledge of python strings, lists, tuple and also tkinter (Py
 <h2>About Elementopedia (popup) -></h2>
 <img src="https://drive.google.com/uc?export=view&id=1tiOUJ0ODkpLknsM69z71CeFcRmB0tIxl">
 <h2>Credits (popup) -></h2>
-<img src="">
+<img src="![image](https://github.com/user-attachments/assets/68c376f5-d460-4472-a50f-73200c991209)">
 <h2>Terms & Conditions (popup) -></h2>
 <img src="">
 <h2>Help (popup) -></h2>
