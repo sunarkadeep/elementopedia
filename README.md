@@ -1,29 +1,83 @@
-# Elementopedia
+# 🔬 Elementopedia
 
-It is a software designed to do four tasks - Know about an Element, Sorting of Elements depending on Periodic trend chosen, Know the constituent elements of a Compound, Stoichiometric Concentration terms Converter. 
+**Elementopedia** is an interactive learning platform designed to help students explore and understand the periodic table and chemical elements through a user-friendly interface.
 
-It uses the basic knowledge of python strings, lists, tuple and also tkinter (Python GUI)
-<br>
-<h2>Home Page -></h2>
-<img src="https://drive.google.com/uc?export=view&id=13Sui6wpTjJ5Y2iTpMvRcQtDpUYk59s_e">
-<h2>About Elementopedia (popup) -></h2>
-<img src="https://drive.google.com/uc?export=view&id=1tiOUJ0ODkpLknsM69z71CeFcRmB0tIxl">
-<h2>Credits (popup) -></h2>
-<img src="![image](https://github.com/user-attachments/assets/68c376f5-d460-4472-a50f-73200c991209)">
-<h2>Terms & Conditions (popup) -></h2>
-<img src="">
-<h2>Help (popup) -></h2>
-<img src="">
-<h2>Menu Page -></h2>
-<img src="">
-<h2>Input : 8 -></h2>
-<img src="">
-<h2>Output of Oxygen (8) -></h2>
-<img src="">
-<h2>Input : ‘C’  -></h2>
-<h2>Output of Carbon (6)  -></h2>
-<h2>Input : blank -></h2>
-<h2>Input : unknown symbol -></h2>
-<h2>When neither trend nor order is selected, ‘SHOW’ button is inactive )-></h2>
-<h2>When trend and order is selected, ‘SHOW’ button becomes active)-></h2>
-<h2></h2>
+![Home Page](https://github.com/sunarkadeep/elementopedia/raw/main/docs/home_page.png)
+
+---
+
+## 🚀 Features
+
+- 🔍 Search elements by name, symbol, or atomic number and other functions
+- 📊 Detailed element info including atomic mass, configuration, and uses  
+- 🎨 Color-coded interface for better UX  
+- 📚 Designed for high school and college students
+
+---
+
+## 🧱 Tech Stack
+
+- **Frontend:** Python (Tkinter)
+- **Backend:** pandas, openpyxl 
+- **Other:** Custom data handling, search algorithm, UI/UX optimization
+
+---
+
+## 📸 Screenshots
+
+| Home Page |
+|-----------|
+| ![Home](https://github.com/sunarkadeep/elementopedia/raw/main/docs/home_page.png) |
+
+| Menu |
+|-----------|
+| ![Menu](https://github.com/sunarkadeep/elementopedia/raw/main/docs/menu.png) |
+
+| Know About The Element |
+|-----------|
+| ![Menu](https://github.com/sunarkadeep/elementopedia/raw/main/docs/know_abt_element.png) |
+
+| Sorting of Elements |
+|-----------|
+| ![Menu](https://github.com/sunarkadeep/elementopedia/raw/main/docs/sort_elements.png) |
+
+| Identification of Elements in a Compound |
+|-----------|
+| ![Menu](https://github.com/sunarkadeep/elementopedia/raw/main/docs/identify_element.png) |
+
+| Stoichiometric Concentration Terms Converter |
+|-----------|
+| ![Menu](https://github.com/sunarkadeep/elementopedia/raw/main/docs/stoic_terms_converter.png) |
+
+---
+
+## 🛠️ How to Run
+ 
+```bash
+git clone https://github.com/sunarkadeep/elementopedia.git
+cd elementopedia
+pip install requirements.txt
+python main.py
+```
+
+> Make sure you have Python 3.x installed.
+
+---
+
+
+## 👨‍💻 Contributors
+
+- [@sunarkadeep](https://github.com/sunarkadeep) - Lead Developer  
+- [@swordboom](https://github.com/swordboom) - Lead Developer
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🌟 Show Your Support
+
+If you like this project, star the repo ⭐ and share it with your friends!
